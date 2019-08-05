@@ -206,7 +206,7 @@
 				<!-- Optional URL to server. Default value is http://localhost:9000 -->
 				<sonar.host.url>
 					<!-- http://localhost:9000-->
-					http://ip172-18-0-6-badull3hh5tg00csotv0-9000.direct.labs.play-with-docker.com
+					http://ip172-18-0-29-bl3vn7t35dvg00bhn1vg-9000.direct.labs.play-with-docker.com
 				</sonar.host.url>
 			</properties>
 		</profile>
